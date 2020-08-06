@@ -11,4 +11,4 @@ Requirements : MAMP or WAMP server, phpMyAdmin
 
 To run the project follow the instructions from Readme.docx file 
 
-![alt text](https://github.com/pritesh899/Music-Library/blob/master/Source%20Code/1.png)
+![alt text](https://github.com/MehaRima/Coursera_Project_Network_Resourses/blob/master/Personal%20music%20manager/Source%20Code/Library/images/music%20library.png)
