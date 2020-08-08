@@ -22,9 +22,9 @@
 ### Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
 
 
-##Project Structure
+## Project Structure
 
-###The hands on project on Creating your own interactive story game using Flutter is divided into following tasks:
+### The hands on project on Creating your own interactive story game using Flutter is divided into following tasks:
 
 ## Task 1: Create the story class and add its scenario
 
