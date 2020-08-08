@@ -1,0 +1,23 @@
+List<Story> storyDB = [
+
+ Story(storyText: 'Your brother is eating your chocolate', choice1: " Take it from him ", choice2: 'Tell your parents', choice3: 'Just leave him'
+ ),
+ Story(storyText: 'He is crying', choice1: "Give it back to him", choice2: 'Eat it quickly ', choice3: 'Tell your parents'
+ ),
+ Story(storyText: 'You are so cute',
+     choice1: "Restart",
+     choice2: '',
+     choice3: ''
+ ),
+ Story(storyText: 'You are so harsh',
+     choice1: "Restart",
+     choice2: '',
+     choice3: ''
+ ),
+ Story(storyText: 'This is a great option your dad bought 2 chocolates for both of you ',
+     choice1: "Restart",
+     choice2: '',
+     choice3: ''
+ ),
+];
+
