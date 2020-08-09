@@ -11,11 +11,11 @@
 
 ## To view the Project files  follow the steps below
 
-###  - Click on 'VIEW ON GITHUB'
+###  - Click on '_VIEW ON GITHUB_'
 
-###  - Then Select the folder 'Final Project 1C Kagglers'
+###  - Then Select the folder '_Final Project 1C Kagglers_'
 
-### _or_
+###    _OR_
  
 ### - [Go here](https://github.com/MehaRima/Coursera_Project_Network_Resourses/tree/master/Final%20Project%201C%20Kagglers) 
 
