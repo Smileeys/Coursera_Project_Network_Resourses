@@ -1,6 +1,9 @@
+# Coursera Project Network Resourses
+
 ## Welcome to this Page
 
-# Coursera Project Network Resourses
+# Predict Future Sales : Final Project Submission
+
 
 ## 1.
 ### [AML_Kagglers Final Submission](https://meharima.github.io/Coursera_Project_Network_Resourses/Final%20Project%201C%20Kagglers/) 
@@ -16,6 +19,14 @@
  
 ### - [Go here](https://github.com/MehaRima/Coursera_Project_Network_Resourses/tree/master/Final%20Project%201C%20Kagglers) 
 
- 
-*The [editor on GitHub](https://github.com/MehaRima/Coursera_Project_Network_Resourses/edit/master/README.md) is used for  maintaining and previewing the content for the website in Markdown files.*
 
+#### The project is interesting in itself, but a little overview as per my experience will provide a brief insight to what you may be presented with when you assess the work.
+
+#### All the requisites have been fulfilled with care and with the best of my novice abilities.
+
+### I hope you will appreciate the way the data had been channelized with the implementation of  graphs and the visual treat that is demonstrated in the project.
+
+### *Honest suggestions and feed backs are always welcome.*
+
+## Thank you !
+## Be Safe.
