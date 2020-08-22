@@ -1,0 +1,33 @@
+### Jitter Map
+
+## How to Use Jittering to Depict Multiple Data Points in the Same Geographic Location
+Link:
+https://www.coursera.org/learn/analytics-capstone/supplement/TAnNO/how-to-use-jittering-to-depict-multiple-data-points-in-the-same-geographic
+
+
+## The Guide to a Jittered Map
+Link: https://www.coursera.org/learn/analytics-capstone/discussions/weeks/6/threads/nWQpXxBKEeaqig5uXwUeGw
+https://www.coursera.org/learn/analytics-capstone/discussions/weeks/6/threads/R-dtVY4QEeipyg4QccOjbA
+
+## Can't get Jitter Circles
+Link: https://www.coursera.org/learn/analytics-capstone/discussions/weeks/6/threads/MKk4297qEei4Mw7vEwYzCg/replies/UKsiydK_Eem8jxInFMuFzg
+
+Step 1:
+Detalis:
+City
+State 
+Zipcode
+
+Columns: Longitude 
+Rows: Latitude
+
+Comment: Now, right-click on the map and choose "View Data", you'll have this:
+
+Step 2: Step2: Rename "latitude (generated)" and "longitude (generated)"
+
+Step 3: Open your modified exported file in Tableau as a new data source. Make a left join with you main data on "ws property Id" .
+
+Step 4: Make a parameter called “spread_factor” and set it to 1. Make another parameter called spread_rotation and set it to 50.
+
+Step 5: Make the following calculated fields (note that you will have to replace all the variables in brackets with the names of your own 
+variables)
