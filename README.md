@@ -2,6 +2,12 @@
 
 ## Welcome to this Page
 
+# Final Project Assignment Submission
+## Course 5: Increasing Real Estate Management Profits: Harnessing Data Analytics
+-- [Final-Project-Download-as-mp4](https://github.com/MehaRima/Coursera_Project_Network_Resourses/blob/master/Excel-to-MySQL-Analytic-Techniques-for-Business/Excel-to-MySQL-Analytic-Techniques-for-Business-master/5%20-%20Increasing%20Real%20Estate%20Management%20Profits_%20Harnessing%20Data%20Analytics/Excel-Capstone_Final%20project-Presentation.mp4)
+-- [Final-Capstone-Presentation-Canva-online](https://www.canva.com/design/DAEFux2P1RE/HKg60lUislIBEJ89AUT_-A/view?utm_content=DAEFux2P1RE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+-- [Final-Project-Tableau-Dashboard](https://public.tableau.com/views/Capstone-Project-HarnessingDataAnalytics/CapstoneOverview?:language=en&:display_count=y&:origin=viz_share_link)
+
 # Speech Analysis
 
 ### ["This week's feedback-1.pdf" here](https://meharima.github.io/Coursera_Project_Network_Resourses/This%20week's%20feedback-1.pdf)  
