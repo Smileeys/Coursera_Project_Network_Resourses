@@ -15,6 +15,11 @@
 
 ### ["This week's feedback-1.pdf" here](https://meharima.github.io/Coursera_Project_Network_Resourses/This%20week's%20feedback-1.pdf)  
 
+## Project overview
+
+[Project Overview](https://github.com/MehaRima/Coursera_Project_Network_Resourses/blob/master/This%20is%20a%20little%20overview%20of%20the%20project.pdf)
+
+
 
 # Predict Future Sales : Final Project Submission
 
