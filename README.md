@@ -2,6 +2,8 @@
 
 ## Welcome to this Page
 
+# [Words can heal](https://docs.google.com/document/d/e/2PACX-1vSzjdcOC0DwJ33nxKswgdbmSvC-R3-UecwPld2a3DQKSyUIH2S1tn8cQSgIU1QSdjAJArm5ewFhBQsr/pub)
+
 # Final Project Assignment Submission
 ## Course 5: Increasing Real Estate Management Profits: Harnessing Data Analytics
 
